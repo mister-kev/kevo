@@ -3,7 +3,7 @@
   "homepage": "https://keven.works",
   "description": "Portfolio | Keven",
   "repository": "https://github.com/mister-kevo/kevo.git",
-  "author": "Keven Meehan",
+  "author": "Keven F. Meehan",
   "sideEffects": false,
   "type": "module",
   "scripts": {
