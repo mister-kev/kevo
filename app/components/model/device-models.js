@@ -1,9 +1,11 @@
 import iphone11 from '~/assets/iphone-11.glb';
 import macbookPro from '~/assets/macbook-pro.glb';
+import ipad from '~/assets/ipad.glb'; 
 
 export const ModelAnimationType = {
   SpringUp: 'spring-up',
   LaptopOpen: 'laptop-open',
+  iPad: 'ipadOpen'
 };
 
 export const deviceModels = {
@@ -20,5 +22,5 @@ export const deviceModels = {
     height: 800,
     position: { x: 0, y: 0, z: 0 },
     animation: ModelAnimationType.LaptopOpen,
-  },
+  }
 };
